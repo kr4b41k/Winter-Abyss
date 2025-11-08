@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects/Winter-Abyss/TEST_Terrain/Content/TEST.umap",
+				"D:/Projects/Winter-Abyss/TEST_Terrain/Content/NewBlueprint.uasset",
+				"D:/Projects/Winter-Abyss/TEST_Terrain/Content/Cgar.uasset",
+				"D:/Projects/Winter-Abyss/TEST_Terrain/Content/_GENERATED/Krab/CubeGridToolOutput_B14CBB68.uasset"
+			]
+		}
+	]
+}

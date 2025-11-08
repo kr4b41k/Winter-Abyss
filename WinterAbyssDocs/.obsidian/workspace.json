@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Реализация.md",
+                "file": "Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Реализация"
+              "title": "Map"
             }
           },
           {
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,12 +225,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc86d52a90cf33a4",
+  "active": "d8fa4d699bcb887a",
   "lastOpenFiles": [
+    "Реализация.md",
+    "Map.md",
     "UI-UX.md",
     "Игровой-Дизайн.canvas",
     "сон.md",
-    "Реализация.md",
     "Untitled 1.base",
     "Untitled 2.base",
     "Untitled.base",
